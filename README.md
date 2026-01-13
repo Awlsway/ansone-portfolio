@@ -1,3 +1,19 @@
+# Ansone – Portfolio Overview (Public Documentation Only)
+
+This is the public-facing documentation of my private digital health project, **Ansone**, an offline-first clinic inventory and transaction app built with Flutter, Hive, and Supabase.
+
+🔐 **Note:**  
+The full application code is kept private, but this repository contains:
+
+- Project overview
+- Architecture documentation
+- SDLC workflow
+- QA approach
+- Screenshots & architecture diagram
+- Feature roadmap
+
+These materials are shared for professional review (e.g., recruitment, portfolio evaluation).
+
 # Ansone – Offline-First Inventory & Clinical Transaction App  
 ### *Built with Flutter • Supabase • Hive*
 
